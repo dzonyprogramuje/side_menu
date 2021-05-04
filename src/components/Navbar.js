@@ -35,6 +35,10 @@ export default function Navbar() {
                     </li>
                 ))}
             </ul>
+                <div className="nav-description">
+                    www.dzonyprogramuje.com
+                </div>
+            
         </nav>
         </>
     )

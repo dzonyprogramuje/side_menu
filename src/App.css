@@ -39,6 +39,9 @@
   height: 100vh;
   background-color: #0a4f70;
   transition: 0.65s;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
 
 .nav-menu.active {
@@ -86,4 +89,15 @@
 
 span {
   margin-left: 16px;
+}
+
+.nav-description {
+  color: #b8b8b8;
+  padding: 0 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  height: 60px;
+  font-size: 0.8rem;
 }
