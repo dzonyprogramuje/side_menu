@@ -1,6 +1,8 @@
 # Side Menu in React
 
 A Project of simple side menu in React.js
+![Sidebar Menu React Dzonyprogramuje](https://github.com/dzonyprogramuje/side_menu/blob/main/src/preview.png?raw=true)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
